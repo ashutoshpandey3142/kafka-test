@@ -1,1 +1,1 @@
-print("Hello World v6")
+printHello World v6")
